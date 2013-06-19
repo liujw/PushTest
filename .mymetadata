@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="iphonesend"
+  id="myeclipse.1343100428027"
+  context-root="/iphonesend"
+  j2ee-spec="1.4"
+  archive="iphonesend.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

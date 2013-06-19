@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/JavaPNS_2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/bcprov-jdk16-145-1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javapns-jdk16-163.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json-lib-2.4-jdk15-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json-lib-2.4-jdk15-sources.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

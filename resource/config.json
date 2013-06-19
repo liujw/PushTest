@@ -1,0 +1,30 @@
+{
+    "IsProductionPush":"", 
+    "IsPushUpdateMsg":"TRUE",
+    "ProductionKeystore":"resource/pushProduction.p12", 
+    "DevelopmentKeystore":"resource/pushDevelopment.p12", 
+    "Password": "4avol123", 
+    "DeviceTokens": [
+        {
+            "Token": "2c3dcdd9a6a1ce76696b87190d3867ec6c474ead2cba553ba74ca424d1d7dc56"
+        }, 
+        {
+            "Token": "5d9e8f05757cfb08fb7ae7f63b8e88c9d292914608c3d1bd197bb36ba4f2bc68"
+        }
+    ], 
+    "PushMsgInfo": {
+        "aps": {
+            "alert": "黄金岛斗地主推送测试,你好，黄金岛玩家......"
+        }
+    },
+    "PushMsgUpdate": {
+        "aps": {
+            "alert": "黄金岛斗地主推送测试......"
+        }, 
+        "update": {
+            "title": "亲，版本升级了", 
+            "body": "请速速更新V4.4.2，体验新版任务系统!", 
+            "url": "asdff.com"
+        }
+    }
+}
